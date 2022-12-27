@@ -47,7 +47,7 @@ Fatos sobre mim:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasm4sco&layout=compact&hide_border=false&title_color=1E90F&text_color=1E90F&bg_color=0d1117&border_color=1E90FF" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Lucasm4sco&theme=gotham&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucasm4sco&theme=gotham&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
