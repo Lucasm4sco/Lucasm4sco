@@ -9,7 +9,7 @@ Fatos sobre mim:
 - 🎉 Tenho 19 anos;
 - 😄 Pronomes: Ele/Dele;
 - 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas à distâncias;
-- 👨‍💻 Atualmente focado em front-end, mas busco virar full-stack;
+- 👨‍💻 Atualmente focado em front-end e mobile, mas busco virar full-stack;
 
 <br>
 
@@ -23,6 +23,7 @@ Fatos sobre mim:
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" title="GitHub"/> &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node JS" title="Node JS"/> &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL"/> &nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=60" alt="React JS" title="React JS"/> &nbsp;
 <div>
 
 <br>
@@ -31,7 +32,6 @@ Fatos sobre mim:
 
 <div> &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=60" alt="PHP" title="PHP"/> &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=60" alt="React JS" title="React JS"/> &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=60" alt="TypeScript" title="TypeScript"/> &nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=60" alt="Boostrap" title="Bootstrap"/> &nbsp;
 </div>
