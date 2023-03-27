@@ -28,16 +28,6 @@ Fatos sobre mim:
 
 <br>
 
-## Aprendendo:
-
-<div> &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=60" alt="PHP" title="PHP"/> &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=60" alt="TypeScript" title="TypeScript"/> &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=60" alt="Boostrap" title="Bootstrap"/> &nbsp;
-</div>
-
-<br>
-
 ## Github Stats: 
 
 <br>
