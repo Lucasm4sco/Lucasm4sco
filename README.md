@@ -6,7 +6,7 @@
 
 Fatos sobre mim: 
 
-- 🎉 Tenho 19 anos;
+- 🎉 Tenho 20 anos;
 - 😄 Pronomes: Ele/Dele;
 - 👨‍🎓 Faço Análise e Desenvolvimento de Sistemas à distâncias;
 - 👨‍💻 Atualmente focado em front-end e mobile, mas busco virar full-stack;
