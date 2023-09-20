@@ -48,10 +48,6 @@ Fatos sobre mim:
   <a href="mailto: lmbp202@gmail.com" target="_blank"> 
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> &nbsp;  &nbsp;
-
-  <a href="https://www.linkedin.com/in/lucas-mateus-batista-polles-a161a1231/" target="_blank"> 
-    <img alt="twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;
-  </a> &nbsp;
 </div>
 
 <br>
