@@ -52,6 +52,11 @@ Fatos sobre mim:
   <a href="https://www.linkedin.com/in/lucas-mateus-batista-polles-a161a1231/" target="_blank"> 
     <img alt="link to linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;
   </a> &nbsp;
+
+  <a href="https://dev.to/lucasm4sco" target="_blank"> 
+    <img alt="link to dev.to" src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"> &nbsp;
+  </a> &nbsp;
+  
 </div>
 
 <br>
